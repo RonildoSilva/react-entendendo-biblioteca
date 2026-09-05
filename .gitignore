@@ -1,0 +1,12 @@
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.~lock*#
+# Node
+node_modules/
+dist/
+.env
